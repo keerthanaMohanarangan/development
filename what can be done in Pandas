@@ -1,0 +1,19 @@
+* Read in Data/DataFrame into pandas
+* Creating a Series by passing a list of values, letting pandas create a default integer index
+* Creating a DataFrame by passing a NumPy array, with a datetime index and labeled columns
+* Creating a DataFrame by passing a dict of objects that can be converted to series-like.
+* You can data from top to bottom with command df.head()
+* Display the index, columns.
+* Transposing your data.
+* Sorting by an axis and values
+* Selecting a single column, which yields a Series, equivalent to df.A
+* Selecting via [], which slices the rows.
+* Performing a descriptive statistics like df.mean()
+* Operations with objects that have different dimensionality and need alignment. In addition, pandas automatically broadcasts along the specified dimension.
+* You can apply functions to the data
+* pandas provides various facilities for easily combining together Series, DataFrame, and Panel objects with various kinds of set logic for the indexes and relational algebra functionality in the case of join / merge-type operations.
+* SQL style merges style are also posible joining section.
+* Append rows to a dataframe.
+* The stack() method can be use to “compress” a level in the DataFrame’s columns.
+
+
