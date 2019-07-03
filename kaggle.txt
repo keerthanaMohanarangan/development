@@ -1,0 +1,16 @@
+                                           Kaggle Kernal
+
+
+Kaggle Kernels is a cloud computational environment that enables reproducible and collaborative analysis.
+Kernels supports scripts in R and Python, Jupyter Notebooks, and RMarkdown reports.
+Analysing the each variable and analysing the importance for the problem, relation between dependent variable and independent variables.
+
+Kernel runs using Docker containers. For every user, it mounts the input to the container with docker images preloaded with the most common data science languages and libraries. 
+It can be considered a script/notebook with environment/data already setup. Advantages are as follows,
+Docker containerization allows easy setup of kaggle projects.
+No requirement to download data due to usage of same common volume mounted into the container.
+Allows, user to share and learn from different approaches.
+Kaggle kernels are good for the above reasons which improves life of a data scientist.
+
+
+
