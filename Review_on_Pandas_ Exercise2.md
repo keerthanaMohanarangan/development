@@ -4,6 +4,6 @@
 * All the codes ran succesfully with correct output.
 * The codes were all readable in simple lines
 * The used unique printing formatting.
-* There style of coding helps my understing od pandas further.
+* There style of coding helps my understing of pandas further.
 
 
